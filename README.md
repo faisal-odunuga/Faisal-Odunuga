@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faisal-Odunuga
 - 👀 I’m interested in internship roles/jobs and also collaborating on projects.
-- 🌱 I’m currently learning backend(Node JS)
-- 💞️ I’m looking to collaborate on both frond end projects
+- 🌱 I’m currently learning (Nest JS)
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Email - faisalodunuga@gmail.com, WhatsApp: 07077826871
 - 😄 Nick Name: Finnie
 - ⚡ Fun fact: I love coding
